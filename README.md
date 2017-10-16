@@ -8,3 +8,5 @@ Example repo for Mozilla WOW at KU
 ###### This is a header 6  
 *this is italics*  
 **this is bold**  
+* :smile:
+* :hand:
