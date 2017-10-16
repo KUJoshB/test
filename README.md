@@ -10,4 +10,3 @@ Example repo for Mozilla WOW at KU
 **this is bold**  
 * :smile:
 * :hand:
-- 
